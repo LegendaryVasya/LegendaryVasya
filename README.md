@@ -5,5 +5,5 @@
 ![LegendaryVasya GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LegendaryVasya&theme=vue)
 
 <div align="сenter">
-<img src="https://c.tenor.com/5TcToUPiMMcAAAAC/god-rick-sanchez.gif" align="сenter" style="width: 70%" />
+<img src="https://c.tenor.com/5TcToUPiMMcAAAAC/god-rick-sanchez.gif" align="сenter" style="width: 90%" />
 </div>
