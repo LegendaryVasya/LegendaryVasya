@@ -4,6 +4,6 @@
 ![LegendaryVasya Top langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LegendaryVasya&theme=vue)
 ![LegendaryVasya GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LegendaryVasya&theme=vue)
 
-<div align="left">
-<img src="https://c.tenor.com/5TcToUPiMMcAAAAC/god-rick-sanchez.gif" style="width: 30%" />
+<div align="сentre">
+<img src="https://c.tenor.com/5TcToUPiMMcAAAAC/god-rick-sanchez.gif" style="width: 50%" />
 </div>
