@@ -1,1 +1,5 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legendaryvasya&show_icons=true&locale=en" alt="legendaryvasya" /></p>
+![LegendaryVasya Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LegendaryVasya&theme=vue)
+
+[![LegendaryVasya GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryVasya&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![LegendaryVasya Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendaryVasya&layout=compact&theme=vue&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
