@@ -1,4 +1,4 @@
-![LegendaryVasya Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LegendaryVasya&theme=vue)
+![LegendaryVasya Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LegendaryVasya&theme=vue)(https://github.com/marketplace/actions/github-profile-summary-cards)
 
 [![LegendaryVasya GitHub stats](https://github-readme-stats.vercel.app/api?username=LegendaryVasya&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
