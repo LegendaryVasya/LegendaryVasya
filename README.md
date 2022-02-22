@@ -5,5 +5,5 @@
 [![LegendaryVasya Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegendaryVasya&layout=compact&theme=vue&hide=shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left">
-<img src="https://c.tenor.com/5TcToUPiMMcAAAAC/god-rick-sanchez.gif" style="width: 40%" />
+<img src="https://c.tenor.com/5TcToUPiMMcAAAAC/god-rick-sanchez.gif" style="width: 30%" />
 </div>
