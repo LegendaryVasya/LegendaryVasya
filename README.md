@@ -1,8 +1,6 @@
 <div align="сenter">
   
 ![LegendaryVasya Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LegendaryVasya&theme=vue)
-<img src="[https://tryhackme-badges.s3.amazonaws.com/LegendaryVasya.png](https://tryhackme.com/badge/1323787)" alt="TryHackMe">
-
 ![LegendaryVasya Top langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LegendaryVasya&theme=vue)
 ![LegendaryVasya GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LegendaryVasya&theme=vue)
 </div>
